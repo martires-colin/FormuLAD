@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormuLAD/static/css/main.75da4cae.css",
+    "main.js": "/FormuLAD/static/js/main.f3064f79.js",
+    "index.html": "/FormuLAD/index.html",
+    "main.75da4cae.css.map": "/FormuLAD/static/css/main.75da4cae.css.map",
+    "main.f3064f79.js.map": "/FormuLAD/static/js/main.f3064f79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75da4cae.css",
+    "static/js/main.f3064f79.js"
+  ]
+}
