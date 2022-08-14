@@ -9,7 +9,7 @@ export default function ConstructorCard({ constructor }) {
       <Card className="text-center bg-light text-dark" style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
-          src={`assets/constructors/${constructor.Constructor.constructorId}.png`}
+          src={`./assets/constructors/${constructor.Constructor.constructorId}.png`}
           alt={constructor.Constructor.name}
           class="background-image"
         />

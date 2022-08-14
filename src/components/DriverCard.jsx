@@ -8,7 +8,7 @@ export default function DriverCard({ driver }) {
       <Card className="text-center bg-light text-dark" style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
-          src={`assets/drivers/${driver.Driver.code}.png`}
+          src={`./assets/drivers/${driver.Driver.code}.png`}
           alt={driver.Driver.driverId}
           class="background-image"
         />

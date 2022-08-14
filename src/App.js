@@ -18,9 +18,9 @@ const App = () => {
             <Routes>
                 {/* <Route path="/" element={<App />} /> */}
                 <Route path="/" element={<DriverStandings />} />
-                <Route path="driver-standings" element={<DriverStandings />} />
-                <Route path="constructor-standings" element={<ConstructorStandings />} />
-                <Route path="*" element={<Error />} />
+                <Route path="/driver-standings" element={<DriverStandings />} />
+                <Route path="/constructor-standings" element={<ConstructorStandings />} />
+                <Route path="/*" element={<Error />} />
             </Routes>
         </Router>
     )
