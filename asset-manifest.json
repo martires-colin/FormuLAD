@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FormuLAD/static/css/main.75da4cae.css",
-    "main.js": "/FormuLAD/static/js/main.f8a159e2.js",
+    "main.js": "/FormuLAD/static/js/main.cf02ba7d.js",
     "index.html": "/FormuLAD/index.html",
     "main.75da4cae.css.map": "/FormuLAD/static/css/main.75da4cae.css.map",
-    "main.f8a159e2.js.map": "/FormuLAD/static/js/main.f8a159e2.js.map"
+    "main.cf02ba7d.js.map": "/FormuLAD/static/js/main.cf02ba7d.js.map"
   },
   "entrypoints": [
     "static/css/main.75da4cae.css",
-    "static/js/main.f8a159e2.js"
+    "static/js/main.cf02ba7d.js"
   ]
 }
