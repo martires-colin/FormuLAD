@@ -1,4 +1,0 @@
-  "homepage": "http://martires-colin.github.io/FormuLAD",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-        "gh-pages": "^4.0.0"
